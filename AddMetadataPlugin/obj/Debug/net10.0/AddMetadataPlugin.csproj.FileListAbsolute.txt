@@ -1,0 +1,4 @@
+D:\4 сем\ООТПиСП\5\AddMetadataPlugin\obj\Debug\net10.0\AddMetadataPlugin.GeneratedMSBuildEditorConfig.editorconfig
+D:\4 сем\ООТПиСП\5\AddMetadataPlugin\obj\Debug\net10.0\AddMetadataPlugin.AssemblyInfoInputs.cache
+D:\4 сем\ООТПиСП\5\AddMetadataPlugin\obj\Debug\net10.0\AddMetadataPlugin.AssemblyInfo.cs
+D:\4 сем\ООТПиСП\5\AddMetadataPlugin\obj\Debug\net10.0\AddMetadataPlugin.csproj.CoreCompileInputs.cache

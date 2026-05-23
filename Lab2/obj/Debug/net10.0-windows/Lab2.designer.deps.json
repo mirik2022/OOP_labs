@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Microsoft.Win32.SystemEvents/11.0.0-preview.4.26230.115": {
+        "runtime": {
+          "lib/net10.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.26.23115"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net10.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.26.23115"
+          }
+        }
+      },
+      "System.Drawing.Common/11.0.0-preview.4.26230.115": {
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "11.0.0-preview.4.26230.115"
+        },
+        "runtime": {
+          "lib/net10.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.26.23115"
+          },
+          "lib/net10.0/System.Private.Windows.Core.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.26.23115"
+          },
+          "lib/net10.0/System.Private.Windows.GdiPlus.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.26.23115"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Win32.SystemEvents/11.0.0-preview.4.26230.115": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-w9U9gEpbE2+SEI/s4CL5IbeaV9oJQwFtSAt2ZsabWyNmucqHmMA4vypQdg1kvNls1hvoqQAwOBjLaHW5FIiBZw==",
+      "path": "microsoft.win32.systemevents/11.0.0-preview.4.26230.115",
+      "hashPath": "microsoft.win32.systemevents.11.0.0-preview.4.26230.115.nupkg.sha512"
+    },
+    "System.Drawing.Common/11.0.0-preview.4.26230.115": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ChGTL6TQ2S1OpdSIe9UzAdqWkaOWPYYeF9B5LZJIzXwQYcE7iZdxGNEGN7acuBPWeYhuHzIOTf4R0l4xcPuV1w==",
+      "path": "system.drawing.common/11.0.0-preview.4.26230.115",
+      "hashPath": "system.drawing.common.11.0.0-preview.4.26230.115.nupkg.sha512"
+    }
+  }
+}
