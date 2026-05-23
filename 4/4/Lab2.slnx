@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="HexagonPlugin/HexagonPlugin.csproj" Id="3fba1bdb-cfe6-4bb8-8e9e-adcb88a7acfc" />
+  <Project Path="Lab2/Lab2.csproj" />
+  <Project Path="Plugins/StarPlugin/StarPlugin.csproj" Id="aaa31990-cc3f-49de-b02e-2ac4d8caa3fc" />
+  <Project Path="PluginSigningTool/PluginSigningTool.csproj" Id="b8c5f395-dc70-4613-acfb-5101d68267f2" />
+</Solution>

@@ -1,0 +1,14 @@
+D:\4 сем\ООТПиСП\4\PluginSigningTool\bin\Debug\net10.0\PluginSigningTool.exe
+D:\4 сем\ООТПиСП\4\PluginSigningTool\bin\Debug\net10.0\PluginSigningTool.deps.json
+D:\4 сем\ООТПиСП\4\PluginSigningTool\bin\Debug\net10.0\PluginSigningTool.runtimeconfig.json
+D:\4 сем\ООТПиСП\4\PluginSigningTool\bin\Debug\net10.0\PluginSigningTool.dll
+D:\4 сем\ООТПиСП\4\PluginSigningTool\bin\Debug\net10.0\PluginSigningTool.pdb
+D:\4 сем\ООТПиСП\4\PluginSigningTool\obj\Debug\net10.0\PluginSigningTool.GeneratedMSBuildEditorConfig.editorconfig
+D:\4 сем\ООТПиСП\4\PluginSigningTool\obj\Debug\net10.0\PluginSigningTool.AssemblyInfoInputs.cache
+D:\4 сем\ООТПиСП\4\PluginSigningTool\obj\Debug\net10.0\PluginSigningTool.AssemblyInfo.cs
+D:\4 сем\ООТПиСП\4\PluginSigningTool\obj\Debug\net10.0\PluginSigningTool.csproj.CoreCompileInputs.cache
+D:\4 сем\ООТПиСП\4\PluginSigningTool\obj\Debug\net10.0\PluginSigningTool.dll
+D:\4 сем\ООТПиСП\4\PluginSigningTool\obj\Debug\net10.0\refint\PluginSigningTool.dll
+D:\4 сем\ООТПиСП\4\PluginSigningTool\obj\Debug\net10.0\PluginSigningTool.pdb
+D:\4 сем\ООТПиСП\4\PluginSigningTool\obj\Debug\net10.0\PluginSigningTool.genruntimeconfig.cache
+D:\4 сем\ООТПиСП\4\PluginSigningTool\obj\Debug\net10.0\ref\PluginSigningTool.dll
