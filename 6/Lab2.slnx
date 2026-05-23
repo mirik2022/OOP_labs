@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="AddMetadataPlugin/AddMetadataPlugin.csproj" Id="3c4a52e4-3223-400a-9f2c-9ade4d658645" />
+  <Project Path="ComradeStudentPlugin/ComradeStudentPlugin.csproj" Id="fc49ae76-a247-4425-869c-8e8b74c673c1" />
+  <Project Path="HexagonPlugin/HexagonPlugin.csproj" Id="3fba1bdb-cfe6-4bb8-8e9e-adcb88a7acfc" />
+  <Project Path="Lab2/Lab2.csproj" />
+  <Project Path="Plugins/StarPlugin/StarPlugin.csproj" Id="aaa31990-cc3f-49de-b02e-2ac4d8caa3fc" />
+  <Project Path="PluginSigningTool/PluginSigningTool.csproj" Id="b8c5f395-dc70-4613-acfb-5101d68267f2" />
+  <Project Path="PrettyPrintPlugin/PrettyPrintPlugin.csproj" Id="b4846184-9577-4c64-8a89-ec5cb7ac1e1c" />
+</Solution>

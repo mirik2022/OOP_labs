@@ -1,0 +1,4 @@
+D:\4 сем\ООТПиСП\5\PrettyPrintPlugin\obj\Debug\net10.0\PrettyPrintPlugin.GeneratedMSBuildEditorConfig.editorconfig
+D:\4 сем\ООТПиСП\5\PrettyPrintPlugin\obj\Debug\net10.0\PrettyPrintPlugin.AssemblyInfoInputs.cache
+D:\4 сем\ООТПиСП\5\PrettyPrintPlugin\obj\Debug\net10.0\PrettyPrintPlugin.AssemblyInfo.cs
+D:\4 сем\ООТПиСП\5\PrettyPrintPlugin\obj\Debug\net10.0\PrettyPrintPlugin.csproj.CoreCompileInputs.cache

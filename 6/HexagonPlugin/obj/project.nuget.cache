@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vwXGVXBGMA4=",
+  "success": true,
+  "projectFilePath": "D:\\4 сем\\ООТПиСП\\6\\HexagonPlugin\\HexagonPlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.win32.systemevents\\11.0.0-preview.4.26230.115\\microsoft.win32.systemevents.11.0.0-preview.4.26230.115.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.drawing.common\\11.0.0-preview.4.26230.115\\system.drawing.common.11.0.0-preview.4.26230.115.nupkg.sha512"
+  ],
+  "logs": []
+}

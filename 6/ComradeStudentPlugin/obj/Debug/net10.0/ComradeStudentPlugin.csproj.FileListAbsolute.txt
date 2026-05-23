@@ -1,0 +1,11 @@
+D:\4 сем\ООТПиСП\6\ComradeStudentPlugin\bin\Debug\net10.0\ComradeStudentPlugin.deps.json
+D:\4 сем\ООТПиСП\6\ComradeStudentPlugin\bin\Debug\net10.0\ComradeStudentPlugin.dll
+D:\4 сем\ООТПиСП\6\ComradeStudentPlugin\bin\Debug\net10.0\ComradeStudentPlugin.pdb
+D:\4 сем\ООТПиСП\6\ComradeStudentPlugin\obj\Debug\net10.0\ComradeStudentPlugin.GeneratedMSBuildEditorConfig.editorconfig
+D:\4 сем\ООТПиСП\6\ComradeStudentPlugin\obj\Debug\net10.0\ComradeStudentPlugin.AssemblyInfoInputs.cache
+D:\4 сем\ООТПиСП\6\ComradeStudentPlugin\obj\Debug\net10.0\ComradeStudentPlugin.AssemblyInfo.cs
+D:\4 сем\ООТПиСП\6\ComradeStudentPlugin\obj\Debug\net10.0\ComradeStudentPlugin.csproj.CoreCompileInputs.cache
+D:\4 сем\ООТПиСП\6\ComradeStudentPlugin\obj\Debug\net10.0\ComradeStudentPlugin.dll
+D:\4 сем\ООТПиСП\6\ComradeStudentPlugin\obj\Debug\net10.0\refint\ComradeStudentPlugin.dll
+D:\4 сем\ООТПиСП\6\ComradeStudentPlugin\obj\Debug\net10.0\ComradeStudentPlugin.pdb
+D:\4 сем\ООТПиСП\6\ComradeStudentPlugin\obj\Debug\net10.0\ref\ComradeStudentPlugin.dll
